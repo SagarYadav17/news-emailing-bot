@@ -8,7 +8,7 @@ See requirements.txt to know what you need to install
 Write these details firsts before running the script.
 
 '''python
-fromMail = ''
-toMail = ''
-password = ''
+fromMail = ""
+toMail = ""
+password = ""
 '''
